@@ -19,7 +19,7 @@ Inicia junto com o Windows (opcional, usando atalho no shell:startup)
 
 Instalação e Uso
 1. Clone o repositório
-git clone https://github.com/seuusuario/APP-Tarefas.git
+git clone https://github.com/seuusuario/APP-Tarefas
 cd gerenciador-tarefas
 
 2. Rode o app
@@ -77,3 +77,4 @@ Feito por Alaor Jorge
 
 
 Se gostou, deixe uma estrela no repositório.
+
